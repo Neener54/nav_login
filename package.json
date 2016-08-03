@@ -1,0 +1,20 @@
+{
+  "name": "nav_login",
+  "version": "0.0.1",
+  "private": true,
+  "optionalDependencies": {
+    "react-scripts": "0.1.0",
+    "redux": "3.5.2",
+    "redux-devtools": "3.3.1",
+    "whatwg-fetch": "1.0.0"
+  },
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  }
+}
